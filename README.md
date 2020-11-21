@@ -27,7 +27,7 @@ apt-get install jfrog-artifactory-oss -y
 
 #### Next, start the Artifactory service and enable it to start at system reboot with the following command:
 ```
-ystemctl start artifactory
+systemctl start artifactory
 ```
 ```
 systemctl enable artifactory
